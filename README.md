@@ -150,3 +150,8 @@ This project is open source and available under the MIT License.
 ## Support
 
 If you encounter any issues or have questions, please create an issue in the repository or contact the development team.
+
+<img width="1570" height="823" alt="image" src="https://github.com/user-attachments/assets/a33ba7dc-579e-4d8c-9c19-87c39071539c" />
+<img width="1489" height="896" alt="image" src="https://github.com/user-attachments/assets/488fda58-03e6-4bc4-a4e9-79b5605bfe36" />
+<img width="1583" height="728" alt="image" src="https://github.com/user-attachments/assets/70297c81-d18b-4d2e-a859-7f02d01819aa" />
+
